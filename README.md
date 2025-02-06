@@ -54,11 +54,10 @@
 
 <h3 align="left">GitHub Streak:</h3>
 <p align="center">
-  <!-- If the first one doesn't work, try the second one -->
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamRajChauhan&theme=dark" alt="GitHub Streak" /> -->
-  
-  <!-- Alternative streak stats (if the above link doesn't work) -->
+  <!-- Main Streak Image with Cache Refresh -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamRajChauhan&theme=dark&v=1" alt="GitHub Streak" /> -->
   <br>
+  <!-- Alternative Streak Stats -->
   <a href="https://github.com/ShubhamRajChauhan">
     <img src="https://streak-stats.demolab.com/?user=ShubhamRajChauhan&theme=dark" alt="GitHub Streak Alternative" />
   </a>
