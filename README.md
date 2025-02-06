@@ -1,17 +1,25 @@
 <h1 align="center">Hi 👋, I'm Shubham Raj Chauhan from India</h1>
 
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="description" width="400" align="right">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ShubhamRajChauhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Developer GIF" width="400">
 </p>
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ShubhamRajChauhan)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShubhamRajChauhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- 📫 How to reach me [Email](mailto:shubhamrajchauhan07@gmail.com)
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 **About Me**
+- 🎓 **Third-year Engineering Student**
+- 🔭 **Currently Working on:** ML, IoT, Smart Devices, and Web Development
+- 💡 **Passionate about:** Coding, Problem Solving, and Innovation
+- 👨‍💻 **All of my projects are available on [GitHub](https://github.com/ShubhamRajChauhan)**
+- 📫 **How to reach me:** [Email](mailto:shubhamrajchauhan07@gmail.com)
+
+---
+
+## 🌍 **Connect with Me**
 <p align="left">
   <a href="https://www.linkedin.com/in/shubham-raj-chauhan-5a4aa5280/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -23,7 +31,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠 **Languages and Tools**
 <p align="left">
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
@@ -34,7 +42,6 @@
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
   </a> &nbsp;&nbsp;
-  
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   </a> &nbsp;&nbsp;
@@ -47,18 +54,39 @@
   <a href="https://www.arduino.cc/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> 
   </a> 
-  
 </p>
 
 ---
 
-<h3 align="left">GitHub Streak:</h3>
+## 🔥 **GitHub Streak**
 <p align="center">
   <!-- Main Streak Image with Cache Refresh -->
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamRajChauhan&theme=dark&v=1" alt="GitHub Streak" /> -->
   <br>
   <!-- Alternative Streak Stats -->
   <a href="https://github.com/ShubhamRajChauhan">
-    <img src="https://streak-stats.demolab.com/?user=ShubhamRajChauhan&theme=dark" alt="GitHub Streak Alternative" />
+    <img src="https://streak-stats.demolab.com/?user=ShubhamRajChauhan&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
+
+---
+
+
+
+## 💡 **Most Used Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamRajChauhan&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 **LeetCode Stats**
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shubhamrajchauhan07?theme=dark" alt="LeetCode Stats">
+</p>
+
+---
+
+
+### ⭐ **If you like my work, consider giving my repositories a star!** ⭐
+
