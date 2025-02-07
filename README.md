@@ -15,7 +15,7 @@
 - 🔭 **Currently Working on:** ML, IoT, Smart Devices, and Web Development
 - 💡 **Passionate about:** Coding, Problem Solving, and Innovation
 - 👨‍💻 **All of my projects are available on [GitHub](https://github.com/ShubhamRajChauhan)**
-- 📫 **How to reach me:** [Email](mailto:shubhamrajchauhan07@gmail.com)
+- 📫 **How to reach me: [Email](mailto:shubhamrajchauhan07@gmail.com)** 
 
 ---
 
