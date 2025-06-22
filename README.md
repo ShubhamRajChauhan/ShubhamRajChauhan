@@ -12,7 +12,7 @@
 
 ### 🚀 **About Me**
 - 🎓 **Third-year Engineering Student**
-- 🔭 **Currently Working on:** ML, IoT, Smart Devices, and Web Development
+- 🔭 **Currently Working on:** Spring Boot Framework
 - 💡 **Passionate about:** Coding, Problem Solving, and Innovation
 - 👨‍💻 **All of my projects are available on [GitHub](https://github.com/ShubhamRajChauhan)**
 - 📫 **How to reach me: [Email](mailto:shubhamrajchauhan07@gmail.com)** 
@@ -36,7 +36,7 @@
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   </a> &nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
     <img src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo" width="40" height="40"/> 
   </a> &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
