@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 **About Me**
-- 🎓 **Third-year Engineering Student**
+- 🎓 **Final-year Engineering Student**
 - 🔭 **Currently Working on:** Spring Boot Framework
 - 💡 **Passionate about:** Coding, Problem Solving, and Innovation
 - 👨‍💻 **All of my projects are available on [GitHub](https://github.com/ShubhamRajChauhan)**
